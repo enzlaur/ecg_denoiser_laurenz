@@ -1,4 +1,0 @@
-118_gen_bw 2 360 650000
-118_gen_bw.dat 16 200(1024) 11 0 -167 3887 0 MLII
-118_gen_bw.dat 16 200(1024) 11 0 -103 -17608 0 V1
-# Created by `nst' from records 118 and bw (SNR = 6 dB)
